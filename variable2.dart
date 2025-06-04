@@ -1,8 +1,8 @@
 import 'dart:ffi';
 
 void main(){
-  dynamic ex="Iram Fakir Fakir";
+  dynamic ex="Iram Irfan Fakir";
   print(ex);
-  ex="Rabiya Irfan Fakir";
+  ex="Rabiya Irfan Pendhari";
   print(ex);
 }
