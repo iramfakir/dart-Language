@@ -23,7 +23,7 @@ main()
   }
   else 
   {
-    print("night: dark mode")
+    print("night: dark mode");
   }
 
   }

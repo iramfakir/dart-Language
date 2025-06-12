@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 void main() {
   double units = 80;
   String consumer = 'residential';
