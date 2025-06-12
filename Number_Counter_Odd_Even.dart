@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 void main()
 {
   List<int> number=[10,21,74,37,26,58,63,48];
