@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 void main()
 {
   List<int> number=[-3,8,9,37,0,-1,45,-9,6];
