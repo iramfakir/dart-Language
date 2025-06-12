@@ -9,11 +9,11 @@ void main()
     {'Name':'Kajal', 'discount':35},
     {'Name':'Eyeliner', 'discount':40},
   ];
-  int discount=25;
+  int offer=25;
   int i=0;
   for(i=0;i<Item.length;i++)
   {
-    if(Item[i]['discount']>=25)
+    if(Item[i]['discount']>=offer)
     {
       print("${Item[i]['discount']}% discount on ${Item[i]['Name']}");
     }
