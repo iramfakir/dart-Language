@@ -6,6 +6,9 @@ void main()
   Parent obj2=Parent();
   obj2.show();
 
+  Child obj3=Child();
+  obj3.show();
+
 }
 
 class GrandParent{
